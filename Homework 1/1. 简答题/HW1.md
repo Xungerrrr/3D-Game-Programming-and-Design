@@ -22,7 +22,7 @@ layout: default
 
 Unity 官方教程的资源目录组织和游戏对象树如下：
 
-![tree](assets\image\file-tree.png)
+![tree](assets/image/file-tree.png)
 
 游戏资源被放到不同的层级中，层次和内容十分清晰。游戏对象间也有明确的层级关系，以便实现游戏中的组合模式。
 
@@ -107,7 +107,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 运行结果如下图：
 
-![Console](assets\image\console.png)
+![Console](assets/image/console.png)
 
 可以看出，基本行为和事件的发生顺序为：
 
@@ -155,7 +155,7 @@ FixedUpdate()、LateUpdate()和Update()的区别：
 
 - 描述下图中 table 对象（实体）的属性、table 的 Transform 的属性、 table 的部件
 
-  ![pic1](assets\image\ch02-homework.png)
+  ![pic1](assets/image/ch02-homework.png)
 
   - table 对象（实体）的属性
     - Name: 对象的名字
@@ -174,7 +174,7 @@ FixedUpdate()、LateUpdate()和Update()的区别：
 
 - 用 UML 图描述 三者的关系（请使用 UMLet 14.1.1 stand-alone版本出图）
 
-![pic2](assets\image\relation.png)
+![pic2](assets/image/relation.png)
 
 ## 5. 整理相关学习资料，编写简单代码验证以下技术的实现：
 
@@ -241,7 +241,7 @@ public class Instantiate : MonoBehaviour {
 ```
 
 效果图如下：
-![prefabs](assets\image\prefabs.png)
+![prefabs](assets/image/prefabs.png)
 
 ## 7. 尝试解释组合模式（Composite Pattern / 一种设计模式）。使用 BroadcastMessage() 方法向子对象发送消息
 
@@ -262,4 +262,3 @@ public class Instantiate : MonoBehaviour {
   }
 ```
 
-[back](./Unity-3D-Homework)
