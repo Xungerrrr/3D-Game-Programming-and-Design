@@ -1,6 +1,6 @@
 ### 游戏视频
 
-[Priests and Devils 2.0.mp4](2. Priests and Devils 2.0/Priests and Devils 2.0.mp4).
+[Priests and Devils 2.0.mp4]("2. Priests and Devils 2.0/Priests and Devils 2.0.mp4").
 
 ### 博客
 
