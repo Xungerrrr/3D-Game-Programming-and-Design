@@ -13,3 +13,5 @@
 
 ### 动画控制器
 [AnimatorControllers](Patrol%20Runner/Assets/AnimatorControllers)
+
+本游戏使用 Unity 2018 创建并制作，因此 manifest.json 所在的文件夹由 UnityPackageManager 变更为 Packges。使用旧版本 Unity 打开项目可能会出现类似提示，或者需要手动移动文件到相应位置。
