@@ -6,10 +6,10 @@
 
 ### 游戏场景
 
-[Patrol Runner.unity](/Assets/Scenes/Patrol%20Runner.unity)
+[Patrol Runner.unity](Patrol%20Runner/Assets/Scenes/Patrol%20Runner.unity)
 
 ### 游戏脚本
-[Scripts](/Assets/Scripts)
+[Scripts](Patrol%20Runner/Assets/Scripts)
 
 ### 动画控制器
-[AnimatorControllers](/Assets/AnimatorControllers)
+[AnimatorControllers](Patrol%20Runner/Assets/AnimatorControllers)
