@@ -61,7 +61,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CarCollide.cs" />
     <Compile Include="Assets\Scripts\CreateRail.cs" />
-    <Compile Include="Assets\Scripts\SmokeControl.cs" />
+    <Compile Include="Assets\Scripts\SmokeController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>E:/Xungerrrr/SYSU/大二下/3D/Projects/Particle/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
