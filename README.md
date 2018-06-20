@@ -2,11 +2,11 @@
 
 ### 博客
 
-[Unity 3D - 人机坦克大战](https://Xungerrrr.github.io)
+[Unity 3D - 人机坦克大战](https://xungerrrr.github.io/2018/06/19/Unity-3D-%E4%BA%BA%E6%9C%BA%E5%9D%A6%E5%85%8B%E5%A4%A7%E6%88%98/)
 
 ### 视频
 
-[Unity - 人机坦克大战](http://www.iqiyi.com/w_19rz805c2h.html)
+[Unity - 人机坦克大战](http://www.iqiyi.com/w_19ryzvaf0t.html)
 
 ### 游戏场景
 
