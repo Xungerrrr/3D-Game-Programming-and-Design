@@ -1,20 +1,12 @@
-# Homework 9 - AI Tank
-
-### 博客
-
-[Unity 3D - 人机坦克大战](https://xungerrrr.github.io/2018/06/19/Unity-3D-%E4%BA%BA%E6%9C%BA%E5%9D%A6%E5%85%8B%E5%A4%A7%E6%88%98/)
+# Homework 10 - Network Tank
 
 ### 视频
 
-[Unity - 人机坦克大战](http://www.iqiyi.com/w_19ryzvaf0t.html)
+审核中...
 
 ### 游戏场景
 
-[AITank.unity](AI%20Tank/Assets/AITank.unity)
-
-### 游戏脚本
-
-[Scripts](AI%20Tank/Assets/Scripts)
+[\_Complete-Game.unity](AI%20Tank/Assets/_Complete-Game.unity)
 
 ### 修改后的官方脚本
 
