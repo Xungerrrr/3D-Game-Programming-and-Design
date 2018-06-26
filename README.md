@@ -1,8 +1,8 @@
 # Homework 10 - Network Tank
 
-### 视频
+### 预览
 
-审核中...
+![Preview](Preview.gif)
 
 ### 游戏场景
 
