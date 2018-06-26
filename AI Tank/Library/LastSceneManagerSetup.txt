@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/AITank.unity
-  isLoaded: 1
-  isActive: 1
